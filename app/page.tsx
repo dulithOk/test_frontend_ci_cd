@@ -3,10 +3,10 @@ export default function Home() {
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-white px-6 py-12">
       <div className="max-w-4xl mx-auto text-center">
         <div className="mx-auto w-[120px] h-[120px] rounded-full bg-blue-600 text-white flex items-center justify-center text-5xl font-bold">
-  D
-</div>
+          D
+        </div>
 
-        <h1 className="mt-6 text-4xl font-bold">Hi, I'm Dulith D.</h1>
+        <h1 className="mt-6 text-4xl font-bold">Hi, I am Dulith D.</h1>
         <p className="mt-4 text-lg text-gray-600 dark:text-gray-300">
           Software Engineer | Python & FastAPI Developer | Tech Enthusiast 🚀
         </p>
@@ -39,9 +39,9 @@ export default function Home() {
       <section className="mt-16 text-left max-w-3xl mx-auto">
         <h2 className="text-2xl font-semibold mb-4">About Me</h2>
         <p className="text-gray-700 dark:text-gray-300">
-          I’m a backend-focused developer with experience in Python, FastAPI,
-          and full-stack systems using React and Next.js. I love building scalable
-          systems and automating tasks with modern CI/CD pipelines.
+          I am a backend-focused developer with experience in Python, FastAPI,
+          and full-stack systems using React and Next.js. I love building
+          scalable systems and automating tasks with modern CI/CD pipelines.
         </p>
       </section>
     </div>
